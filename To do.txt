@@ -1,0 +1,9 @@
+To do
+
+
+1. Determine plan for data types needed for game
+2. Write functions for each event which can happen during game
+3. Write functions(?) which order what events can happen, and who can call those events
+4. Decide on how to implement a UI (Most simple option being HTML elements, then use pyQuery, which I've only just found out about and might not be useful, to link html to python)
+5. Link UI to python
+6. Set up backend server to store the state of the game, and receive requests to alter the state(This is the bit I have very little idea about how it works, so would be a learning curve for me) 
